@@ -5,6 +5,10 @@ this project has only the code for the web app , demo for the project and previe
 
 ### Parrots narrates a story by identifying speakers , assigning unique voices for each and telling the story of their world and life…
 
+![Screenshot 2022-10-08 164236](https://user-images.githubusercontent.com/105660518/195117349-9c8a47be-a5fa-4ae4-9636-132fc3d00f42.png)
+![Screenshot 2022-10-08 164338](https://user-images.githubusercontent.com/105660518/195117429-c395c60d-2145-4bff-9fa0-106b50ca0390.png)
+You can either write down your stories or upload a file
+![Screenshot 2022-10-08 164310](https://user-images.githubusercontent.com/105660518/195117488-47325ba3-f573-4a4c-a3a4-3f7522a33c3b.png)
 
 
 # Check the results here 
